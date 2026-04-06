@@ -1,0 +1,178 @@
+{
+  "Python": {
+    "roadmap": ["Learn syntax and data types", "OOP and modules", "File handling and APIs"],
+    "projects": ["Build a CLI todo app", "Create a web scraper", "Make a REST API with Flask"]
+  },
+  "Django": {
+    "roadmap": ["Django project structure", "Models and ORM", "Views, URLs and Templates"],
+    "projects": ["Build a blog app", "Create a REST API with DRF", "Build a user auth system"]
+  },
+  "FastAPI": {
+    "roadmap": ["FastAPI basics and routing", "Pydantic models", "Auth and middleware"],
+    "projects": ["Build a CRUD API", "Create a JWT auth service", "Build a file upload API"]
+  },
+  "React": {
+    "roadmap": ["JSX and components", "State and props", "Hooks and routing"],
+    "projects": ["Build a todo app", "Create a weather dashboard", "Build a movie search app"]
+  },
+  "SQL": {
+    "roadmap": ["Basic queries and joins", "Aggregations and subqueries", "Indexing and optimization"],
+    "projects": ["Design a library database", "Build a sales report system", "Create an inventory tracker"]
+  },
+  "PostgreSQL": {
+    "roadmap": ["Setup and basic queries", "Advanced joins and CTEs", "Performance tuning"],
+    "projects": ["Build a blog database", "Create an analytics schema", "Design a multi-tenant DB"]
+  },
+  "Docker": {
+    "roadmap": ["Containers and images", "Dockerfile and volumes", "Docker Compose"],
+    "projects": ["Containerize a Python app", "Set up a multi-service app", "Deploy with Docker Compose"]
+  },
+  "Kubernetes": {
+    "roadmap": ["Pods and deployments", "Services and ingress", "Scaling and monitoring"],
+    "projects": ["Deploy a web app", "Set up auto-scaling", "Build a CI/CD pipeline"]
+  },
+  "Machine Learning": {
+    "roadmap": ["Math fundamentals", "Scikit-learn basics", "Model evaluation and tuning"],
+    "projects": ["Build a spam classifier", "Create a price predictor", "Build a recommendation engine"]
+  },
+  "TensorFlow": {
+    "roadmap": ["Tensors and operations", "Building neural networks", "Training and deployment"],
+    "projects": ["MNIST digit classifier", "Image classification app", "Text sentiment analyzer"]
+  },
+  "PyTorch": {
+    "roadmap": ["Tensors and autograd", "Neural network modules", "Training loops"],
+    "projects": ["Build a CNN classifier", "Create an NLP model", "Fine-tune a pretrained model"]
+  },
+  "AWS": {
+    "roadmap": ["Core services (EC2, S3)", "IAM and networking", "Serverless and deployment"],
+    "projects": ["Host a static website", "Build a serverless API", "Set up a CI/CD pipeline"]
+  },
+  "Git": {
+    "roadmap": ["Basic commands and branching", "Merging and rebasing", "GitHub workflows"],
+    "projects": ["Contribute to open source", "Set up a team workflow", "Build a Git hook system"]
+  },
+  "Linux": {
+    "roadmap": ["File system and commands", "Processes and permissions", "Shell scripting"],
+    "projects": ["Write a backup script", "Set up a web server", "Automate system monitoring"]
+  },
+  "TypeScript": {
+    "roadmap": ["Types and interfaces", "Generics and utility types", "TS with React"],
+    "projects": ["Convert a JS project to TS", "Build a typed API client", "Create a TS component library"]
+  },
+  "MongoDB": {
+    "roadmap": ["Documents and collections", "Queries and aggregation", "Indexing and scaling"],
+    "projects": ["Build a blog backend", "Create a product catalog", "Design a social feed schema"]
+  },
+  "Redis": {
+    "roadmap": ["Data structures and commands", "Caching patterns", "Pub/sub and queues"],
+    "projects": ["Add caching to an API", "Build a leaderboard", "Create a job queue system"]
+  },
+  "Pandas": {
+    "roadmap": ["DataFrames and Series", "Data cleaning and transforms", "Merging and grouping"],
+    "projects": ["Analyze a CSV dataset", "Build a sales dashboard", "Clean a messy real-world dataset"]
+  },
+  "Scikit-learn": {
+    "roadmap": ["Preprocessing and pipelines", "Classification and regression", "Model evaluation"],
+    "projects": ["Customer churn predictor", "House price estimator", "Email spam classifier"]
+  },
+  "REST API": {
+    "roadmap": ["HTTP methods and status codes", "Request/response design", "Auth and versioning"],
+    "projects": ["Build a CRUD API", "Design a public API", "Create an API with rate limiting"]
+  },
+  "JavaScript": {
+    "roadmap": ["ES6+ fundamentals", "Async and promises", "DOM and events"],
+    "projects": ["Build a quiz app", "Create a weather app", "Build a real-time chat"]
+  },
+  "CSS": {
+    "roadmap": ["Flexbox and Grid", "Responsive design", "Animations and transitions"],
+    "projects": ["Clone a landing page", "Build a responsive dashboard", "Create a CSS component library"]
+  },
+  "Figma": {
+    "roadmap": ["Frames and components", "Auto layout and variants", "Prototyping and handoff"],
+    "projects": ["Design a mobile app UI", "Create a design system", "Prototype an onboarding flow"]
+  },
+  "NLP": {
+    "roadmap": ["Text preprocessing", "Embeddings and transformers", "Fine-tuning LLMs"],
+    "projects": ["Build a sentiment analyzer", "Create a text summarizer", "Build a chatbot"]
+  },
+  "Deep Learning": {
+    "roadmap": ["Neural network basics", "CNNs and RNNs", "Transformers and attention"],
+    "projects": ["Image classifier", "Text generation model", "Build a face recognition system"]
+  },
+  "CI/CD": {
+    "roadmap": ["Pipeline concepts", "GitHub Actions basics", "Deployment automation"],
+    "projects": ["Set up a GitHub Actions pipeline", "Auto-deploy a web app", "Build a test automation flow"]
+  },
+  "Terraform": {
+    "roadmap": ["HCL syntax and providers", "Resources and modules", "State management"],
+    "projects": ["Provision an EC2 instance", "Set up a VPC", "Deploy a full app infrastructure"]
+  },
+  "Solidity": {
+    "roadmap": ["Smart contract basics", "Data types and functions", "Security patterns"],
+    "projects": ["Build an ERC-20 token", "Create an NFT contract", "Build a voting system"]
+  },
+  "Flutter": {
+    "roadmap": ["Dart basics", "Widgets and state", "Navigation and APIs"],
+    "projects": ["Build a todo app", "Create a weather app", "Build a chat UI"]
+  },
+  "Power BI": {
+    "roadmap": ["Data import and modeling", "DAX basics", "Dashboard design"],
+    "projects": ["Build a sales dashboard", "Create an HR analytics report", "Design a KPI tracker"]
+  },
+  "Statistics": {
+    "roadmap": ["Descriptive statistics", "Probability and distributions", "Hypothesis testing"],
+    "projects": ["Analyze a real dataset", "Run an A/B test", "Build a statistical report"]
+  },
+  "NumPy": {
+    "roadmap": ["Arrays and operations", "Indexing and slicing", "Linear algebra basics"],
+    "projects": ["Build a matrix calculator", "Create a data normalizer", "Implement ML algorithms from scratch"]
+  },
+  "Excel": {
+    "roadmap": ["Formulas and functions", "Pivot tables", "Charts and dashboards"],
+    "projects": ["Build a budget tracker", "Create a sales report", "Design an inventory system"]
+  },
+  "Tableau": {
+    "roadmap": ["Connecting data sources", "Building visualizations", "Dashboards and stories"],
+    "projects": ["Build a sales dashboard", "Create a KPI report", "Visualize a public dataset"]
+  },
+  "MLflow": {
+    "roadmap": ["Experiment tracking", "Model registry", "Deployment and serving"],
+    "projects": ["Track a training experiment", "Register and version a model", "Deploy a model as API"]
+  },
+  "Bash": {
+    "roadmap": ["Basic commands", "Scripts and loops", "Automation and cron jobs"],
+    "projects": ["Write a file organizer", "Automate backups", "Build a system health checker"]
+  },
+  "Networking": {
+    "roadmap": ["OSI model and TCP/IP", "Subnetting and routing", "Firewalls and security"],
+    "projects": ["Set up a home lab network", "Configure a firewall", "Build a network monitor"]
+  },
+  "React Native": {
+    "roadmap": ["Components and navigation", "State management", "Native APIs and deployment"],
+    "projects": ["Build a todo mobile app", "Create a news reader", "Build a fitness tracker"]
+  },
+  "Firebase": {
+    "roadmap": ["Auth and Firestore basics", "Realtime database", "Cloud functions"],
+    "projects": ["Build a chat app", "Create a realtime dashboard", "Add push notifications to an app"]
+  },
+  "Penetration Testing": {
+    "roadmap": ["Recon and scanning", "Exploitation basics", "Reporting and remediation"],
+    "projects": ["Set up a home lab", "Complete a CTF challenge", "Test a vulnerable VM"]
+  },
+  "Docker Compose": {
+    "roadmap": ["Services and networks", "Volumes and env vars", "Multi-container apps"],
+    "projects": ["Containerize a full stack app", "Set up a dev environment", "Deploy with Compose"]
+  },
+  "Node.js": {
+    "roadmap": ["Modules and async basics", "Express and routing", "APIs and databases"],
+    "projects": ["Build a REST API", "Create a real-time chat", "Build a file upload service"]
+  },
+  "Azure": {
+    "roadmap": ["Core services overview", "Virtual machines and storage", "App service and functions"],
+    "projects": ["Deploy a web app", "Set up a blob storage pipeline", "Build a serverless function"]
+  },
+  "GCP": {
+    "roadmap": ["Core services overview", "Cloud Run and functions", "BigQuery basics"],
+    "projects": ["Deploy an app on Cloud Run", "Build a data pipeline", "Set up a pub/sub system"]
+  }
+}

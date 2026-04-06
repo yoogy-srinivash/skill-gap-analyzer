@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.env
+.venv
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Database
+*.db
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML models / cache
+.cache/
+sentence_transformers/
+*.bin
+*.pt
+*.pth
+transformers_cache/
+hf_cache/
+
+# Logs
+*.log
+logs/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite / React build
+dist/
+dist-ssr/
+*.local
+.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# OS
+.DS_Store
+Desktop.ini
+
+# Test files
+test_analyze.py
+backend/test_analyze.py

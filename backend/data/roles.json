@@ -1,0 +1,92 @@
+{
+  "Backend Developer": {
+    "skills": ["Python", "Django", "REST API", "SQL", "Git", "Docker", "Linux", "PostgreSQL", "Redis", "FastAPI"],
+    "weights": {"Python": 1.0, "Django": 0.9, "REST API": 0.9, "SQL": 0.8, "Git": 0.7, "Docker": 0.8, "Linux": 0.7, "PostgreSQL": 0.8, "Redis": 0.6, "FastAPI": 0.8},
+    "categories": {"Language": ["Python", "SQL"], "Framework": ["Django", "FastAPI", "REST API"], "Tool": ["Git", "Docker", "Redis"], "Concept": ["Linux", "PostgreSQL"]}
+  },
+  "Frontend Developer": {
+    "skills": ["HTML", "CSS", "JavaScript", "React", "TypeScript", "Git", "Tailwind", "Figma", "Redux", "Webpack"],
+    "weights": {"HTML": 0.8, "CSS": 0.8, "JavaScript": 1.0, "React": 1.0, "TypeScript": 0.8, "Git": 0.7, "Tailwind": 0.7, "Figma": 0.6, "Redux": 0.7, "Webpack": 0.6},
+    "categories": {"Language": ["HTML", "CSS", "JavaScript", "TypeScript"], "Framework": ["React", "Redux", "Webpack", "Tailwind"], "Tool": ["Git", "Figma"], "Concept": []}
+  },
+  "Data Analyst": {
+    "skills": ["Python", "Pandas", "NumPy", "SQL", "Excel", "Power BI", "Matplotlib", "Statistics", "Tableau", "Data Cleaning"],
+    "weights": {"Python": 1.0, "Pandas": 0.9, "NumPy": 0.8, "SQL": 0.9, "Excel": 0.7, "Power BI": 0.8, "Matplotlib": 0.7, "Statistics": 0.9, "Tableau": 0.7, "Data Cleaning": 0.8},
+    "categories": {"Language": ["Python", "SQL"], "Framework": ["Pandas", "NumPy", "Matplotlib"], "Tool": ["Excel", "Power BI", "Tableau"], "Concept": ["Statistics", "Data Cleaning"]}
+  },
+  "Machine Learning Engineer": {
+    "skills": ["Python", "Scikit-learn", "TensorFlow", "Pandas", "NumPy", "SQL", "Docker", "MLflow", "PyTorch", "Feature Engineering"],
+    "weights": {"Python": 1.0, "Scikit-learn": 0.9, "TensorFlow": 0.9, "Pandas": 0.8, "NumPy": 0.8, "SQL": 0.7, "Docker": 0.7, "MLflow": 0.7, "PyTorch": 0.9, "Feature Engineering": 0.9},
+    "categories": {"Language": ["Python", "SQL"], "Framework": ["Scikit-learn", "TensorFlow", "PyTorch", "Pandas", "NumPy"], "Tool": ["Docker", "MLflow"], "Concept": ["Feature Engineering"]}
+  },
+  "DevOps Engineer": {
+    "skills": ["Linux", "Docker", "Kubernetes", "CI/CD", "AWS", "Git", "Terraform", "Bash", "Jenkins", "Monitoring"],
+    "weights": {"Linux": 1.0, "Docker": 1.0, "Kubernetes": 0.9, "CI/CD": 0.9, "AWS": 0.9, "Git": 0.7, "Terraform": 0.8, "Bash": 0.8, "Jenkins": 0.7, "Monitoring": 0.7},
+    "categories": {"Language": ["Bash"], "Framework": ["Terraform", "Jenkins"], "Tool": ["Docker", "Kubernetes", "Git", "AWS"], "Concept": ["Linux", "CI/CD", "Monitoring"]}
+  },
+  "Full Stack Developer": {
+    "skills": ["Python", "JavaScript", "React", "Django", "SQL", "REST API", "Git", "Docker", "Node.js", "MongoDB"],
+    "weights": {"Python": 0.9, "JavaScript": 1.0, "React": 0.9, "Django": 0.8, "SQL": 0.8, "REST API": 0.9, "Git": 0.7, "Docker": 0.7, "Node.js": 0.8, "MongoDB": 0.7},
+    "categories": {"Language": ["Python", "JavaScript", "SQL"], "Framework": ["React", "Django", "REST API", "Node.js"], "Tool": ["Git", "Docker", "MongoDB"], "Concept": []}
+  },
+  "Data Scientist": {
+    "skills": ["Python", "Machine Learning", "Statistics", "Pandas", "NumPy", "Scikit-learn", "Data Visualization", "SQL", "Jupyter", "A/B Testing"],
+    "weights": {"Python": 1.0, "Machine Learning": 1.0, "Statistics": 0.9, "Pandas": 0.9, "NumPy": 0.8, "Scikit-learn": 0.9, "Data Visualization": 0.8, "SQL": 0.7, "Jupyter": 0.7, "A/B Testing": 0.8},
+    "categories": {"Language": ["Python", "SQL"], "Framework": ["Pandas", "NumPy", "Scikit-learn"], "Tool": ["Jupyter"], "Concept": ["Machine Learning", "Statistics", "Data Visualization", "A/B Testing"]}
+  },
+  "Cloud Engineer": {
+    "skills": ["AWS", "Azure", "GCP", "Docker", "Kubernetes", "Terraform", "Linux", "Networking", "Security", "CI/CD"],
+    "weights": {"AWS": 1.0, "Azure": 0.8, "GCP": 0.8, "Docker": 0.9, "Kubernetes": 0.9, "Terraform": 0.9, "Linux": 0.8, "Networking": 0.8, "Security": 0.8, "CI/CD": 0.8},
+    "categories": {"Language": [], "Framework": ["Terraform"], "Tool": ["AWS", "Azure", "GCP", "Docker", "Kubernetes"], "Concept": ["Linux", "Networking", "Security", "CI/CD"]}
+  },
+  "Cybersecurity Analyst": {
+    "skills": ["Networking", "Linux", "Penetration Testing", "Firewalls", "SIEM", "Python", "Cryptography", "Incident Response", "Vulnerability Assessment", "Compliance"],
+    "weights": {"Networking": 1.0, "Linux": 0.9, "Penetration Testing": 0.9, "Firewalls": 0.8, "SIEM": 0.8, "Python": 0.7, "Cryptography": 0.8, "Incident Response": 0.9, "Vulnerability Assessment": 0.9, "Compliance": 0.7},
+    "categories": {"Language": ["Python"], "Framework": ["SIEM"], "Tool": ["Firewalls", "Penetration Testing"], "Concept": ["Networking", "Linux", "Cryptography", "Incident Response", "Vulnerability Assessment", "Compliance"]}
+  },
+  "Mobile Developer": {
+    "skills": ["React Native", "Flutter", "JavaScript", "Dart", "REST API", "Git", "Firebase", "Android", "iOS", "UI/UX"],
+    "weights": {"React Native": 0.9, "Flutter": 0.9, "JavaScript": 0.8, "Dart": 0.8, "REST API": 0.8, "Git": 0.7, "Firebase": 0.8, "Android": 0.8, "iOS": 0.8, "UI/UX": 0.7},
+    "categories": {"Language": ["JavaScript", "Dart"], "Framework": ["React Native", "Flutter", "REST API"], "Tool": ["Git", "Firebase"], "Concept": ["Android", "iOS", "UI/UX"]}
+  },
+  "Database Administrator": {
+    "skills": ["SQL", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Query Optimization", "Backup & Recovery", "Linux", "Performance Tuning", "Data Modeling"],
+    "weights": {"SQL": 1.0, "PostgreSQL": 0.9, "MySQL": 0.9, "MongoDB": 0.8, "Redis": 0.7, "Query Optimization": 0.9, "Backup & Recovery": 0.8, "Linux": 0.7, "Performance Tuning": 0.9, "Data Modeling": 0.9},
+    "categories": {"Language": ["SQL"], "Framework": [], "Tool": ["PostgreSQL", "MySQL", "MongoDB", "Redis"], "Concept": ["Query Optimization", "Backup & Recovery", "Linux", "Performance Tuning", "Data Modeling"]}
+  },
+  "AI Engineer": {
+    "skills": ["Python", "Deep Learning", "NLP", "TensorFlow", "PyTorch", "LLMs", "Vector Databases", "MLflow", "Docker", "API Development"],
+    "weights": {"Python": 1.0, "Deep Learning": 1.0, "NLP": 0.9, "TensorFlow": 0.8, "PyTorch": 0.9, "LLMs": 1.0, "Vector Databases": 0.8, "MLflow": 0.7, "Docker": 0.7, "API Development": 0.8},
+    "categories": {"Language": ["Python"], "Framework": ["TensorFlow", "PyTorch"], "Tool": ["MLflow", "Docker", "Vector Databases"], "Concept": ["Deep Learning", "NLP", "LLMs", "API Development"]}
+  },
+  "QA Engineer": {
+    "skills": ["Manual Testing", "Selenium", "Python", "API Testing", "Git", "JIRA", "Test Planning", "Automation", "Postman", "CI/CD"],
+    "weights": {"Manual Testing": 0.8, "Selenium": 0.9, "Python": 0.8, "API Testing": 0.9, "Git": 0.7, "JIRA": 0.7, "Test Planning": 0.8, "Automation": 0.9, "Postman": 0.8, "CI/CD": 0.8},
+    "categories": {"Language": ["Python"], "Framework": ["Selenium"], "Tool": ["Git", "JIRA", "Postman"], "Concept": ["Manual Testing", "API Testing", "Test Planning", "Automation", "CI/CD"]}
+  },
+  "Product Manager": {
+    "skills": ["Roadmapping", "Agile", "JIRA", "User Research", "Data Analysis", "Wireframing", "Stakeholder Management", "A/B Testing", "SQL", "Communication"],
+    "weights": {"Roadmapping": 0.9, "Agile": 0.9, "JIRA": 0.7, "User Research": 0.9, "Data Analysis": 0.8, "Wireframing": 0.7, "Stakeholder Management": 0.9, "A/B Testing": 0.8, "SQL": 0.6, "Communication": 1.0},
+    "categories": {"Language": ["SQL"], "Framework": [], "Tool": ["JIRA"], "Concept": ["Roadmapping", "Agile", "User Research", "Data Analysis", "Wireframing", "Stakeholder Management", "A/B Testing", "Communication"]}
+  },
+  "UI/UX Designer": {
+    "skills": ["Figma", "Adobe XD", "Wireframing", "Prototyping", "User Research", "Typography", "Color Theory", "CSS", "Accessibility", "Design Systems"],
+    "weights": {"Figma": 1.0, "Adobe XD": 0.8, "Wireframing": 0.9, "Prototyping": 0.9, "User Research": 0.9, "Typography": 0.7, "Color Theory": 0.7, "CSS": 0.7, "Accessibility": 0.8, "Design Systems": 0.9},
+    "categories": {"Language": ["CSS"], "Framework": [], "Tool": ["Figma", "Adobe XD"], "Concept": ["Wireframing", "Prototyping", "User Research", "Typography", "Color Theory", "Accessibility", "Design Systems"]}
+  },
+  "Blockchain Developer": {
+    "skills": ["Solidity", "Ethereum", "Web3.js", "Smart Contracts", "JavaScript", "Python", "Cryptography", "Git", "REST API", "Docker"],
+    "weights": {"Solidity": 1.0, "Ethereum": 0.9, "Web3.js": 0.9, "Smart Contracts": 1.0, "JavaScript": 0.8, "Python": 0.7, "Cryptography": 0.8, "Git": 0.6, "REST API": 0.7, "Docker": 0.6},
+    "categories": {"Language": ["Solidity", "JavaScript", "Python"], "Framework": ["Web3.js", "REST API"], "Tool": ["Git", "Docker"], "Concept": ["Ethereum", "Smart Contracts", "Cryptography"]}
+  },
+  "Embedded Systems Engineer": {
+    "skills": ["C", "C++", "Microcontrollers", "RTOS", "Linux", "Assembly", "GPIO", "UART", "SPI", "Hardware Debugging"],
+    "weights": {"C": 1.0, "C++": 1.0, "Microcontrollers": 0.9, "RTOS": 0.9, "Linux": 0.7, "Assembly": 0.8, "GPIO": 0.8, "UART": 0.7, "SPI": 0.7, "Hardware Debugging": 0.8},
+    "categories": {"Language": ["C", "C++", "Assembly"], "Framework": ["RTOS"], "Tool": [], "Concept": ["Microcontrollers", "Linux", "GPIO", "UART", "SPI", "Hardware Debugging"]}
+  },
+  "Network Engineer": {
+    "skills": ["Networking", "TCP/IP", "Routing", "Switching", "Firewalls", "Linux", "Cisco", "VPN", "Network Security", "Monitoring"],
+    "weights": {"Networking": 1.0, "TCP/IP": 0.9, "Routing": 0.9, "Switching": 0.8, "Firewalls": 0.8, "Linux": 0.7, "Cisco": 0.8, "VPN": 0.8, "Network Security": 0.9, "Monitoring": 0.7},
+    "categories": {"Language": [], "Framework": [], "Tool": ["Cisco", "Firewalls"], "Concept": ["Networking", "TCP/IP", "Routing", "Switching", "Linux", "VPN", "Network Security", "Monitoring"]}
+  }
+}
